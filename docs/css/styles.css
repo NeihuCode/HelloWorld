@@ -8,3 +8,11 @@ h1:hover {
   color: red;
   transform: rotate(10deg);
 }
+
+.carousel {
+  max-width: 600px;
+}
+
+.carousel figure {
+  margin: 0;
+}
